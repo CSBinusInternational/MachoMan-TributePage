@@ -1,4 +1,6 @@
 Alexandro and Andrean chose Bill Gates for this tribute page, below  is our design for the page
+
+
 Below the design image is the Bill Gates' picture that we use
 
 
