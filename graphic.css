@@ -1,0 +1,59 @@
+.headerlist li {
+    float : left ;
+    padding-right : 40px;
+    list-style : none;
+}
+
+.Story {
+    padding-left : 120px;
+}
+
+h1{
+    color : rgba(70, 69, 69, 0.993);
+    padding-left : 600px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+    
+
+}
+
+.text img{
+    padding-left : 200px;
+}
+
+p{
+    padding-left : 450px;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+    color :rgba(143, 104, 104, 0.993);
+    font-family : Verdana;
+    font-size : 14.3px;
+}
+
+.header{
+    background-color :rgba(17, 17, 17, 0.993)
+}
+
+.text li {
+    padding-left :50px;
+    text-align: center;
+    float : left;
+    list-style: none;
+}
+li {
+    list-style :none;
+}
+.footerlist img {
+    padding-top : 100px;
+    padding-left : 80px;
+    padding-right : 20px;
+    list-style : none;
+
+}
+
+.text li h1 {
+    padding-left : 240px;
+    padding-right : 340px;
+    color :rgba(104, 103, 103, 0.993)
+}
